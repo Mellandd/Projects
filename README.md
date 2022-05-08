@@ -1,2 +1,1 @@
-# Projects
-General repository
+Repository for random projects and tests.
